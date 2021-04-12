@@ -1,0 +1,10 @@
+C:\Users\Tyler\source\repos\asciiart\bin\Debug\asciiart.exe.config
+C:\Users\Tyler\source\repos\asciiart\bin\Debug\asciiart.exe
+C:\Users\Tyler\source\repos\asciiart\bin\Debug\asciiart.pdb
+C:\Users\Tyler\source\repos\asciiart\obj\Debug\asciiart.csprojAssemblyReference.cache
+C:\Users\Tyler\source\repos\asciiart\obj\Debug\asciiart.Form1.resources
+C:\Users\Tyler\source\repos\asciiart\obj\Debug\asciiart.Properties.Resources.resources
+C:\Users\Tyler\source\repos\asciiart\obj\Debug\asciiart.csproj.GenerateResource.cache
+C:\Users\Tyler\source\repos\asciiart\obj\Debug\asciiart.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\source\repos\asciiart\obj\Debug\asciiart.exe
+C:\Users\Tyler\source\repos\asciiart\obj\Debug\asciiart.pdb
